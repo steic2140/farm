@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+
+<!-- This is my head and title -->
+
+<head>
+<title>Apples from 2R Ranch</title>
+<link rel="stylesheet" type="text/css" href="ranch.css" />
+</head>
+
+<!-- In this part of the body, I am welcoming people to my site -->
+
+<body>
+<br />
+<br />
+<br />
+<!-- #include file="ranch.ssi"-->
+<hr />
+<h1 style="color: black;">Homegrown Apples on 2R Ranch</h1>
+
+<p>
+<img src="sample.jpg" class="center" width="325" height="250" alt="Sample picture" /></p>
+
+<!-- ORGANIZE THE CONTENT WITH COMMENTS -->
+
+<h6>About Our Apple Production</h6>
+
+<p>
+Content that you want clients to know about will go here.
+</p>
+
+
+<hr />
+<!-- #include file="ranch.ssi" -->
+<hr />
+</body>
+</html>

@@ -1,0 +1,12 @@
+/* Formatting for the body */
+body 
+{background-image: url(mast.jpg); background-position: top; background-repeat: no-repeat; background-color: #0033CC; margin: 120px; color: white;}
+
+/* Link formatting */
+a:hover {color: red;}
+a:active, a:visited {color: lightpink;}
+a:link {color: lightblue;}
+
+/* Special text formatting */
+p.odd {background-color: #FFCC33; text-transform: uppercase;}
+h6 {font-size: 20px;}

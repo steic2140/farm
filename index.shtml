@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+
+<!-- This is my head and title -->
+
+<head>
+<title>Welcome to 2R Ranch</title>
+<link rel="stylesheet" type="text/css" href="ranch.css" />
+</head>
+
+<!-- In this part of the body, I am welcoming people to my site -->
+
+<body>
+<br />
+<br />
+<br />
+<!-- #include file="ranch.ssi"-->
+<hr />
+<h1 style="color: white;">Welcome to the online home of 2R Ranch
+on the Web.</h1>
+
+<p>
+<img src="sample.jpg" class="center" width="325" height="250" alt="Sample picture" /></p>
+
+<!-- ORGANIZE THE CONTENT WITH COMMENTS -->
+
+<h6><span style="background-color: #000000;">Current News</span></h6>
+
+<p class="odd">
+Current product news or other updates will appear here.
+</p>
+
+<p>
+Other content that you want to appear on the home page will 
+show up here.
+</p>
+
+
+<hr />
+<!-- #include file="ranch.ssi" -->
+<hr />
+</body>
+</html>
